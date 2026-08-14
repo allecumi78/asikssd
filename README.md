@@ -4,6 +4,7 @@ ASIKSSD adalah aplikasi PHP/MySQL untuk pengelolaan informasi kelulusan siswa se
 
 ## Fungsi Dokumen
 - `README.md`: ringkasan proyek, struktur folder, dan pintu masuk dokumentasi.
+- `TUTORIAL.md`: panduan penggunaan aplikasi untuk admin, operator, guru, kepala sekolah, dan siswa.
 - `TESTING.md`: checklist pengujian manual dari setup sampai backup/restore.
 - `FINALIZATION.md`: status final aplikasi, fitur yang sudah dibangun, hak akses role, dan catatan operasional.
 
@@ -24,6 +25,7 @@ Setelah setup selesai:
 - Admin membuka `http://localhost/asikssd/public/admin_login.php`.
 
 ## Alur Setelah Instalasi
-1. Baca dan jalankan checklist di `TESTING.md`.
-2. Jika seluruh pengujian lolos, gunakan `FINALIZATION.md` sebagai catatan kesiapan penggunaan.
-3. Ganti data demo dengan data sekolah sebenarnya sebelum pemakaian resmi.
+1. Baca `TUTORIAL.md` untuk memahami cara memakai aplikasi.
+2. Jalankan checklist di `TESTING.md`.
+3. Jika seluruh pengujian lolos, gunakan `FINALIZATION.md` sebagai catatan kesiapan penggunaan.
+4. Ganti data demo dengan data sekolah sebenarnya sebelum pemakaian resmi.
