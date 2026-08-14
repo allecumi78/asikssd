@@ -1,0 +1,14 @@
+# Runtime/generated data
+storage/
+public/assets/img/uploads/
+
+# Database dumps and local backups
+*.sql
+!database/migrations/*.sql
+!database/seeds/*.sql
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
